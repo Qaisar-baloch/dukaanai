@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+database/dukaanai.db
+.streamlit/secrets.toml
+venv/
